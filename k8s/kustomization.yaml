@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: docker.io/opsmx11/dev-dockerswarm-ssdmay
-  newTag: 38-critical
+- name: docker.io/opsmxssd/docker-sandbox
+  newTag: da156da-1-noncritical
