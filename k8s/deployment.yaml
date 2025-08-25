@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: petclinic
-        image: docker.io/opsmx11/dev-dockerswarm-ssdmay:8441cae-6-
+        image: docker.io/opsmxssd/docker-sandbox:da156da-1-noncritical
         ports:
         - containerPort: 8080
         resources:
