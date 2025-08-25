@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: docker.io/opsmxssd/docker-sandbox
-  newTag: da156da-2-noncritical
+  newTag: 030a0b0-3-critical
